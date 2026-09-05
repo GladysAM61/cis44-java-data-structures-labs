@@ -16,7 +16,7 @@ import java.util.Arrays;
 public class dotProduct {
   
     public static void main(String[] args) {
-        System.out.println("I AM RUNNING DOT PRODUCT");
+      
         Random random = new Random();
         //creating n
         int n = 5;
