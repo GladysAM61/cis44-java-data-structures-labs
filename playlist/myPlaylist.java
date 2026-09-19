@@ -25,7 +25,7 @@ public class myPlaylist {
            System.out.println("5. Exit");
            System.out.print("Choose an option (1-5): ");
            
-           if (scanner.hasNextInt()) {
+           
                //storing their choice in choice
                 choice = scanner.nextInt();
                 scanner.nextLine();
@@ -67,5 +67,5 @@ public class myPlaylist {
         
       
       
-    }
+    
 }
